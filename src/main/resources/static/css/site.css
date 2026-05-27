@@ -51,7 +51,7 @@ body {
 }
 
 .navbar {
-    border: 1px solid #000000;
+   /* border: 1px solid #000000;*/
     background-color: #144;
     padding: 10px;
 }
@@ -63,6 +63,8 @@ body {
 }
 
 .navbar a:hover{
-    background-color: #666;
-    padding: 10px;
+    background-color: yellow;
+    color: black;
+    /* padding: 10px; */
 }
+
